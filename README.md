@@ -6,21 +6,27 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">](http://www.linkedin.com/in/aminulislamrakib3832)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Rakib3832?mibextid=ZbWKwL)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Twitter.png"> </p>]
+[<p align="center"><img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">](http://www.linkedin.com/in/aminulislamrakib3832)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Rakib3832?mibextid=ZbWKwL)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
 
 <br />
 
-<!--
-**rakib38324/rakib38324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :computer: Technologies that I know
+<br>
+<p align="center">
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/css.png"/>
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/react.png"/>
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/node.png"/>
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/express.png"/>
+</p><br/>
 
-Here are some ideas to get you started:
+## :chart_with_upwards_trend: Current Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+</p>
+` 
