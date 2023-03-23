@@ -6,7 +6,8 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">](http://www.linkedin.com/in/aminulislamrakib3832)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Rakib3832?mibextid=ZbWKwL)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
+(http://www.linkedin.com/in/aminulislamrakib3832)[<p align="center"><img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">]
+ (http://www.linkedin.com/in/aminulislamrakib3832)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Rakib3832?mibextid=ZbWKwL)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
 
 <br />
 
@@ -27,6 +28,6 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib38324&background=2E2EFF&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib38324&background=#8A8AFF&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
 ` 
