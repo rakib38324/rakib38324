@@ -6,7 +6,7 @@
 
 <br />
 
-[<p align="center">(http://www.linkedin.com/in/aminulislamrakib3832)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">]
+[<p align="center"><img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">
  (http://www.linkedin.com/in/aminulislamrakib3832)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Rakib3832?mibextid=ZbWKwL)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
 
 <br />
