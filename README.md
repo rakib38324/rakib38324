@@ -1,12 +1,17 @@
-### Hi 👋 !!!!!
+# Hi there, I'm MD. Aminul Islam rakib! 👋
+I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, ExpressJs, Firebase and MongoDB.
 ### Welcome to my github
 
+- 🌱 I’m currently exploring TypeScript, NextJs, Redux and Mongoose.
+- 💬 Ask me about web development and UI/UX design.
+- 😄 Pronouns: He/Him
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullah323&label=Profile%20views&color=0e75b6&style=flat" alt="rakib38324" /> </p>
 
-## :mailbox: Reach me out
+## :mailbox: Feel free to explore my repositories and contributions!
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">
+[<p align="center"><img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/aminulislamrakib3832)
 [<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Rakib3832?mibextid=ZbWKwL)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
 
 <br />
@@ -23,6 +28,8 @@
 <img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/node.png"/>
 <img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/express.png"/>
 </p><br/>
+
+
 
 ## :chart_with_upwards_trend: Current Stats
 
