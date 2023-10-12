@@ -59,14 +59,17 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
   <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib38324&show_icons=true&locale=en&layout=compact"
         alt="rakib" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib38324&background=#8A8AFF&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib38324&background=#8A8AFF&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
 
 <p></p>
 
-
-<p align="left"> <a href="https://github.com/rakib38324"><img
-                src="https://github-profile-trophy.vercel.app/?username=Raisul-24" alt="raisul" /></a> </p>
+<br/>
+<p align="left"> 
+  <a href="https://github.com/rakib38324">
+    <img src="https://github-profile-trophy.vercel.app/?username=Raisul-24" alt="raisul" />
+  </a> 
+</p>
 
 
 
