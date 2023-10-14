@@ -1,4 +1,4 @@
-# Hi there, I'm MD. Aminul Islam rakib! 👋
+# Hi there, I'm MD. Aminul Islam Rakib! 👋
 I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, ExpressJs, Firebase and MongoDB.
 ### Welcome to my GitHub
 
