@@ -67,7 +67,7 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
 <br/>
 <p align="left"> 
   <a href="https://github.com/rakib38324">
-    <img src="https://github-profile-trophy.vercel.app/?username=Raisul-24" alt="raisul" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rakib38324" alt="rakib" />
   </a> 
 </p>
 
