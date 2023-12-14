@@ -1,7 +1,7 @@
 # Hi there, I'm MD. Aminul Islam Rakib! 👋
-<a href="https://www.linkedin.com/in/raisul~islam">
+
 ![MD  Aminul Islam Rakib (1)](https://github.com/rakib38324/rakib38324/assets/108406603/1834597e-11df-48db-973e-53edfe539e7a)
-</a>
+
 
 
 I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, ExpressJs, Firebase and MongoDB.
