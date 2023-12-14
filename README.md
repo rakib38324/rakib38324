@@ -9,6 +9,12 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
 
 ## :mailbox: Feel free to explore my repositories and contributions!
 
+<div width="100%" style="display: flex; justify-content: center; align-items: center; ">
+ <p> <a href="https://github.com/rakib38324"><img  width="100%"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib38324&theme=blue_green" alt="Profile Details"></a> </p>
+
+</div>
+  
 <br />
 
 [<p align="center"><img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/aminulislamrakib3832)
