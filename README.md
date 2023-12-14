@@ -15,22 +15,13 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
 
 </div>
   
-<br />
 
-[<p align="center"><img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/aminulislamrakib3832)
-[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Rakib3832?mibextid=ZbWKwL)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
-
-<br />
 
 ## ☎️: Connect with me
 <br />
 
-[<p align="center">[<img height="75"
-      src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Linkedin.png">](https://www.linkedin.com/in/raisul~islam/)[<img
-      height="75"
-      src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Facebook.png">](https://www.facebook.com/raisul.rih)[<img
-      height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Twitter.png"> </p>
-](https://twitter.com/raisul_24)]
+[<p align="center">[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/aminulislamrakib3832)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Rakib3832/)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Twitter.png"> </p>
+](https://twitter.com/rakib38324)]
 <br />
 ## :computer: Technologies that I know
 <br>
