@@ -1,4 +1,8 @@
-![MD  Aminul Islam Rakib (2)](https://github.com/rakib38324/rakib38324/assets/108406603/8fe98dca-46ec-4085-9c81-09c3a7fa1f3c)
+
+<a href="https://www.linkedin.com/in/aminulislamrakib3832">
+   <img src="https://raw.githubusercontent.com/rakib38324/rakib38324/main/images/MD. Aminul Islam Rakib (2).gif" alt="">
+</a>
+
 # Hi there, I'm MD. Aminul Islam Rakib! 👋
 
 
