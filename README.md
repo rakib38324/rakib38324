@@ -22,6 +22,16 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
 
 <br />
 
+## ☎️: Connect with me
+<br />
+
+[<p align="center">[<img height="75"
+      src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Linkedin.png">](https://www.linkedin.com/in/raisul~islam/)[<img
+      height="75"
+      src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Facebook.png">](https://www.facebook.com/raisul.rih)[<img
+      height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Twitter.png"> </p>
+](https://twitter.com/raisul_24)]
+<br />
 ## :computer: Technologies that I know
 <br>
 <p align="center">
