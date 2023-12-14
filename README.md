@@ -1,11 +1,11 @@
+![MD  Aminul Islam Rakib (2)](https://github.com/rakib38324/rakib38324/assets/108406603/8fe98dca-46ec-4085-9c81-09c3a7fa1f3c)
 # Hi there, I'm MD. Aminul Islam Rakib! 👋
 
-![MD  Aminul Islam Rakib (1)](https://github.com/rakib38324/rakib38324/assets/108406603/1834597e-11df-48db-973e-53edfe539e7a)
 
 
-
-I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, ExpressJs, Firebase and MongoDB.
+I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, ExpressJs, Firebase, and MongoDB.
 ### Welcome to my GitHub
+
 
 
 
