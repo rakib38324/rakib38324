@@ -10,6 +10,24 @@
 I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, ExpressJs, Firebase, and MongoDB.
 ### Welcome to my GitHub
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+
+<p align="center">
+   <a href="https://git.io/streak-stats"><img width="70%"
+         src="https://streak-stats.demolab.com?user=rakib38324&theme=neon-blurange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=494"
+         alt="GitHub Streak" /></a>
+</p>
+
+
+
+<p align="center">
+  <img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib38324&show_icons=true&locale=en&layout=compact"
+        alt="rakib" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib38324&background=#8A8AFF&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+</p>
 
 
 
@@ -70,15 +88,6 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
 
 
 
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib38324&show_icons=true&locale=en&layout=compact"
-        alt="rakib" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib38324&background=#8A8AFF&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
-</p>
 
 <p></p>
 
