@@ -22,27 +22,11 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
 
 
 
-<p align="center">
-  <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib38324&show_icons=true&locale=en&layout=compact"
-        alt="rakib" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib38324&background=#8A8AFF&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
-</p>
-
-
-
 - 🌱 I’m currently exploring TypeScript, NextJs, Redux and Mongoose.
 - 💬 Ask me about web development and UI/UX design.
 - 😄 Pronouns: He/Him
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullah323&label=Profile%20views&color=0e75b6&style=flat" alt="rakib38324" /> </p>
 
-## :mailbox: Feel free to explore my repositories and contributions!
-
-<div width="100%" style="display: flex; justify-content: center; align-items: center; ">
- <p> <a href="https://github.com/rakib38324"><img  width="100%"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib38324&theme=blue_green" alt="Profile Details"></a> </p>
-
-</div>
   
 
 
@@ -88,8 +72,27 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
 
 
 
+## :mailbox: Feel free to explore my repositories and contributions!
 
-<p></p>
+<div width="100%" style="display: flex; justify-content: center; align-items: center; ">
+ <p> <a href="https://github.com/rakib38324"><img  width="100%"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib38324&theme=blue_green" alt="Profile Details"></a> </p>
+
+</div>
+
+
+
+<div align="left">
+   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakib38324&theme=blue_green" />
+</div>
+
+
+<div align="right">
+   <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakib38324&theme=blue_green" />
+</div>
+
+
+
 
 <br/>
 <p align="left"> 
