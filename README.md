@@ -7,7 +7,7 @@
 
 
 
-I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, ExpressJs, Firebase, and MongoDB.
+I'm a passionate web developer with experience in JavaScript, TypeScript, ReactJs, Redux, NextJs, NodeJs, ExpressJs, Firebase, Mongoose, and MongoDB.
 ### Welcome to my GitHub
 
 ## :chart_with_upwards_trend: Current Stats
@@ -22,8 +22,8 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
 
 
 
-- 🌱 I’m currently exploring TypeScript, NextJs, Redux and Mongoose.
-- 💬 Ask me about web development and UI/UX design.
+- 🌱 I’m currently exploring Postgres, Prisma, SQL, and GraphQL.
+- 💬 Ask me about web development.
 - 😄 Pronouns: He/Him
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullah323&label=Profile%20views&color=0e75b6&style=flat" alt="rakib38324" /> </p>
 
@@ -39,15 +39,20 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
 ## :computer: Technologies that I know
 <br>
 <p align="center">
-<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/css.png"/>
-<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/react.png"/>
-<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/node.png"/>
-<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/express.png"/>
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/HTML.png" alt="HTML" />
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/css.png" alt="CSS" />
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/JavaScript.png" alt="JavaScript" />
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/typescript.png" width="60" height="60" alt="TypeScript" /> 
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/react.png" alt="ReactJs" />
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/nextjs.jpg" width="60" height="60" alt="NextJs" />
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Redux (1).png" width="60" height="60" alt="Redux" />
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/tailwind.png" alt="TailwindCSS" />
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Bootsrap.png" alt="Bootstrap" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="NodeJs" />
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/express.png" alt="ExpressJs"/> 
+<img src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/pngwing.com.png" width="60" height="60" alt="MongoDB" /> 
 </p><br/>
+
 
 ## :computer: Usages Tools :
 <p align="center">
@@ -58,6 +63,12 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
+                height="40" /> </a>
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img
+                src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"
+                height="40" /> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img
+                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"
                 height="40" /> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
         width="40" height="40" /> </a>
@@ -83,8 +94,13 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
 
 
 <div align="left">
-   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakib38324&theme=blue_green" />
+ <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakib38324&theme=blue_green" alt="Rakib" />
+  </p>
+<br>
 </div>
+
+
+
 
 
 <div align="right">
@@ -95,7 +111,7 @@ I'm a passionate web developer with experience in JavaScript, ReactJs, NodeJs, E
 
 
 <br/>
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/rakib38324">
     <img src="https://github-profile-trophy.vercel.app/?username=rakib38324" alt="rakib" />
   </a> 
