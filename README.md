@@ -3,12 +3,34 @@
    <img src="https://raw.githubusercontent.com/rakib38324/rakib38324/main/images/MD. Aminul Islam Rakib (2).gif" alt="">
 </a>
 
-# Hi there, I'm MD. Aminul Islam Rakib! 👋
+<div align="center">
 
+# 👋 Hey, I'm MD. Aminul Islam Rakib
 
+### Full Stack Software Engineer • AI Researcher • Master's Student @ UNIMAS
 
-I'm a passionate web developer with experience in JavaScript, TypeScript, ReactJs, Redux, NextJs, NodeJs, ExpressJs, Firebase, Mongoose, and MongoDB.
-### Welcome to my GitHub
+<p>
+Building scalable web applications, AI-powered systems, and research-driven software solutions.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/aminulislamrakib3832">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rakib38324">
+<img src="https://img.shields.io/github/followers/rakib38324?style=for-the-badge"/>
+</a>
+
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;AI+Researcher;Next.js+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+
+</div>
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -30,12 +52,22 @@ I'm a passionate web developer with experience in JavaScript, TypeScript, ReactJ
   
 
 
-## ☎️: Connect with me
-<br />
+<div align="center">
 
-[<p align="center">[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/aminulislamrakib3832)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Rakib3832/)[<img height="75" src="https://github.com/rakib38324/rakib38324/blob/main/images/icons/Twitter.png"> </p>
-](https://twitter.com/rakib38324)]
-<br />
+<a href="https://www.linkedin.com/in/aminulislamrakib3832">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aminul.rakib22@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rakib38324">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
 ## :computer: Technologies that I know
 <br>
 <p align="center">
